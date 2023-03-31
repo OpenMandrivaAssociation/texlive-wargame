@@ -1,6 +1,6 @@
 Name:		texlive-wargame
 Version:	64797
-Release:	1
+Release:	2
 Summary:	A LaTeX package to prepare hex'n'counter wargames
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wargame
