@@ -1,5 +1,5 @@
 Name:		texlive-wargame
-Version:	66713
+Version:	69692
 Release:	1
 Summary:	A LaTeX package to prepare hex'n'counter wargames
 Group:		Publishing
