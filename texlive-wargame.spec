@@ -3,7 +3,7 @@ Version:	69692
 Release:	1
 Summary:	A LaTeX package to prepare hex'n'counter wargames
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wargame
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/wargame
 License:	cc-by-sa-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wargame.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wargame.doc.r%{version}.tar.xz
